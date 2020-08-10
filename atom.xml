@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lytruby.github.io/</id>
     <title>一甜姥姥的老巢</title>
-    <updated>2020-06-17T07:05:44.290Z</updated>
+    <updated>2020-08-10T14:54:19.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lytruby.github.io/"/>
     <link rel="self" href="https://lytruby.github.io/atom.xml"/>
@@ -11,14 +11,12 @@
     <icon>https://lytruby.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 一甜姥姥的老巢</rights>
     <entry>
-        <title type="html"><![CDATA[第一篇文章]]></title>
+        <title type="html"><![CDATA[[leetcode刷题] 49 字母异位词分组]]></title>
         <id>https://lytruby.github.io/post/di-yi-pian-wen-zhang/</id>
         <link href="https://lytruby.github.io/post/di-yi-pian-wen-zhang/">
         </link>
         <updated>2020-06-17T06:05:51.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>学习过程</strong>：学习算法，数据结构以及语言<br>
-<strong>project 记录</strong>：记录project的完成过程<br>
-<strong>刷题总结</strong>： leetcode刷题总结</p>
+        <content type="html"><![CDATA[<p>yes</p>
 ]]></content>
     </entry>
 </feed>
